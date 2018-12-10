@@ -2,6 +2,8 @@
 EhCache 分布式本地缓存
 
 
+![](https://i.imgur.com/rNJiYWH.png)
+
 <pre>
 Ehcache是一个纯Java的进程内缓存框架。
 由于Ehcache是进程内的缓存系统，一旦将应用部署在集群环境中，每个节点维护各自的缓存数据，当某
