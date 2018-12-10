@@ -1,4 +1,4 @@
-# JGroupEcacheTree
+# JGroupsEhCacheTree
 Ehcache 分布式本地缓存
 
 
