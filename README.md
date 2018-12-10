@@ -1,5 +1,5 @@
 # JGroupsEhCacheTree
-Ehcache 分布式本地缓存
+EhCache 分布式本地缓存
 
 
 <pre>
